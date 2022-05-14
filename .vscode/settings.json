@@ -1,6 +1,5 @@
 {
   "cSpell.ignoreWords": [
-    "a",
     "atacar",
     "ataque",
     "atributos",
@@ -26,6 +25,8 @@
     "o",
     "sair",
     "teclado",
-    "treinar"
+    "treinar",
+    "Personagem",
+    "randomizar"
   ]
 }

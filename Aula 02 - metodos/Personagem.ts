@@ -1,5 +1,3 @@
-import prompt from 'prompt-sync'
-
 export class Personagem {
   constructor(
     public nome: string,
