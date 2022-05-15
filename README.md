@@ -20,8 +20,12 @@ Modificadores de acesso: nos permitem configurar <b>visibilidade</b> dos nossos 
 
   ☞ <b>protected (#)</b>: Torna visível por classes herdadas, utilizado mais quando trabalhamos com  <b>herança</b>.
 
-  
+### Herança
 
+Segundo o princípio da herança, uma classe (filha) pode herdar de outra (pai) características e comportamentos já definidas nessa segunda, sem necessidade de redefinição.
+
+métodos estáticos não precisam ser instanciado, não manipula atributos da classe.
+  
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [Typescript](https://www.typescriptlang.org/)

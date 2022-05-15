@@ -1,5 +1,9 @@
 {
   "cSpell.ignoreWords": [
+    "Atual",
+    "Personagem",
+    "agilidade",
+    "armadura",
     "atacar",
     "ataque",
     "atributos",
@@ -15,18 +19,23 @@
     "energia",
     "entrar",
     "escolha",
+    "espirito",
     "esta",
+    "forca",
     "guerreiro",
     "imprimir",
+    "inicio",
+    "intelecto",
     "mero",
     "morreu",
     "n",
     "número",
     "o",
+    "randomizar",
     "sair",
     "teclado",
     "treinar",
-    "Personagem",
-    "randomizar"
+    "velocidade",
+    "versatilidade"
   ]
 }
