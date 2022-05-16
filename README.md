@@ -2,7 +2,7 @@
 
 Repositório para consolidação de conhecimento dos conceitos do Paradigma de Orientação a Objeto.
 
-## Princípios básicos da Orientação a Objetos :books:
+## Princípios básicos da Orientação a Objetos 
 
 ### 🎯 Encapsulamento 
 
@@ -39,7 +39,7 @@ Métodos que possuem uma assinatura mas sem implementação.
 
 - [Typescript](https://www.typescriptlang.org/)
 - [NodeJs](https://nodejs.org/en/)
-- 
+
 ## Desenvolvido Por :octocat:
 
 | [<img src="https://avatars1.githubusercontent.com/u/60902843?s=400&u=fca9219fa3416ab4b849077b9248f71d44133283&v=4" width=115><br><sub>Erika Skarda</sub>](https://www.linkedin.com/in/erika-skarda/) | 
